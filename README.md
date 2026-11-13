@@ -1,11 +1,10 @@
-
 # Hi there! I'm Dea 👋
 
-### 👩‍💻 Information Systems Student | Web Developer
+### 👩‍💻 Web Developer
 
-I'm an Information Systems student at Universitas Amikom Yogyakarta with an interest in web development.
+I'm passionate about developing functional, user-friendly, and efficient web applications.
 
-I have hands-on experience in developing and improving web applications through my internship. I'm continuously learning new technologies and improving my technical skills.
+I have hands-on experience in web application development through internship experience and personal projects. I enjoy building applications, solving technical problems, and continuously improving my development skills.
 
 ## 🛠️ Tech Stack
 
@@ -15,7 +14,7 @@ PHP · JavaScript · HTML · CSS · SQL
 
 **Frameworks**
 
-CodeIgniter 3
+Laravel · CodeIgniter 3
 
 **Database**
 
@@ -23,7 +22,7 @@ MySQL
 
 **Development Tools**
 
-Visual Studio Code · Postman · Figma · XAMPP
+Visual Studio Code · Git · GitHub · Postman · Figma · XAMPP
 
 ## 💼 Internship Experience
 
@@ -31,15 +30,34 @@ Visual Studio Code · Postman · Figma · XAMPP
 
 Contributed to the development and improvement of SIMINFRA, a web-based Geographic Information System (GIS) using PHP, CodeIgniter 3, JavaScript, MySQL, and Google Maps API.
 
-Focused on improving application functionality, spatial data management, and user experience.
+Focused on improving application functionality, spatial data management, system performance, and user experience.
 
-## 🚀 Personal Project
+## 🚀 Projects
 
-### SHIRUBE | Japanese Learning Platform
+### 🎫 [WorkDesk | IT Helpdesk Ticketing System](https://github.com/deaadeliana/workdesk-helpdesk)
 
-**Status:** Planned
+**Status:** Completed (MVP)
 
-A personal project to build a Japanese language learning platform from scratch using Laravel and MySQL.
+A web-based IT helpdesk ticketing system developed using Laravel and MySQL to manage technical support requests and track ticket resolution.
+
+**Key Features:**
+- Role-based access for Admin, Employee, and Technician
+- Ticket creation and management
+- User and ticket category management
+- Technician assignment and ticket status tracking
+- Dashboard with ticket statistics
+
+**Tech Stack:** Laravel · PHP · MySQL · Blade
+
+### 📚 SHIRUBE | Japanese Learning Platform
+
+**Status:** In Progress
+
+A Japanese language learning platform currently being developed using Laravel and MySQL.
+
+The project aims to provide structured Japanese learning materials, interactive exercises, quizzes, and an administrative content management system.
+
+**Tech Stack:** Laravel · PHP · MySQL · JavaScript
 
 ## 🌱 Currently Learning
 
@@ -47,4 +65,4 @@ Laravel · REST API Development · Web Application Security · Git & GitHub
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/deaadeliana
+**GitHub:** [github.com/deaadeliana](https://github.com/deaadeliana)
